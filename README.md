@@ -1,3 +1,3 @@
 # Spring
-IntelliJ / JAVA11
-Spring Boot / Security
+Spring Boot/Security
+IntelliJ/JAVA11
