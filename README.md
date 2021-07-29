@@ -1,2 +1,2 @@
 # Spring
-Java 11/IntelliJ 
+Java 11 / IntelliJ 
